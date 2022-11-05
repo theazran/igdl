@@ -6,8 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "Instagram Downloader",
+    "Instagram Scrapper"
+  ],
+  "author": "M Asran",
   "license": "ISC",
   "dependencies": {
     "axios": "^1.1.3",
